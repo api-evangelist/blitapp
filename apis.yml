@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://blitapp.com/api/
 common:
+  - type: DomainSecurity
+    url: security/blitapp-domain-security.yml
   - type: Website
     url: https://blitapp.com/api/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://blitapp.com/blog/feed.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
