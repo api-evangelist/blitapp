@@ -39,7 +39,6 @@ apis:
   - name: Blitapp
     description: "Schedule screenshots of web pages and sync them to your cloud"
     humanURL: https://blitapp.com/api/
-    baseURL: https://blitapp.com/api/
     tags:
       - Development
     properties:
